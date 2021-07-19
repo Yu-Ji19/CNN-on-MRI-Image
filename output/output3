@@ -1,0 +1,18 @@
+Fatal Python error: Segmentation fault
+
+Thread 0x00007ffa5ba26700 (most recent call first):
+  File "/usr/lib64/python3.6/selectors.py", line 376 in select
+  File "/usr/lib64/python3.6/multiprocessing/connection.py", line 911 in wait
+  File "/usr/lib64/python3.6/multiprocessing/connection.py", line 414 in _poll
+  File "/usr/lib64/python3.6/multiprocessing/connection.py", line 257 in poll
+  File "/usr/lib64/python3.6/multiprocessing/queues.py", line 104 in get
+  File "/nas/longleaf/home/jiyu2/.local/lib/python3.6/site-packages/tensorboardX/event_file_writer.py", line 202 in run
+  File "/usr/lib64/python3.6/threading.py", line 916 in _bootstrap_inner
+  File "/usr/lib64/python3.6/threading.py", line 884 in _bootstrap
+
+Current thread 0x00007ffad967e740 (most recent call first):
+  File "/nas/longleaf/home/jiyu2/.local/lib/python3.6/site-packages/torch/cuda/memory.py", line 170 in memory_stats_as_nested_dict
+  File "/nas/longleaf/home/jiyu2/.local/lib/python3.6/site-packages/torch/cuda/memory.py", line 160 in memory_stats
+  File "/nas/longleaf/home/jiyu2/.local/lib/python3.6/site-packages/torch/cuda/memory.py", line 279 in memory_allocated
+  File "training.py", line 245 in <module>
+/var/spool/slurmd/job5768721/slurm_script: line 12: 16754 Segmentation fault      python3 training.py

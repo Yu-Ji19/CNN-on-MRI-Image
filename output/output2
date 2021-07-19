@@ -1,0 +1,203 @@
+Setting up data loader...
+Finish loading data
+Model_name:  vgg16_Final_Regression_factor0.463_weight_decay_0.013
+Start training
+Epoch     3: reducing learning rate of group 0 to 4.6311e-04.
+Epoch     5: reducing learning rate of group 0 to 2.1447e-04.
+Epoch     7: reducing learning rate of group 0 to 9.9326e-05.
+Epoch     9: reducing learning rate of group 0 to 4.5999e-05.
+Epoch    11: reducing learning rate of group 0 to 2.1303e-05.
+Epoch    13: reducing learning rate of group 0 to 9.8657e-06.
+Epoch    15: reducing learning rate of group 0 to 4.5690e-06.
+Epoch    17: reducing learning rate of group 0 to 2.1159e-06.
+Epoch    19: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.5972614288330078
+Final validation error:  0.879880142211914
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.8233427149908883
+**********************************
+**********************************
+Save files...
+Finish saving files
+Model_name:  vgg16_Final_Regression_factor0.429_weight_decay_0.011
+Start training
+Epoch     3: reducing learning rate of group 0 to 4.2975e-04.
+Epoch     5: reducing learning rate of group 0 to 1.8469e-04.
+Epoch     7: reducing learning rate of group 0 to 7.9371e-05.
+Epoch     9: reducing learning rate of group 0 to 3.4110e-05.
+Epoch    11: reducing learning rate of group 0 to 1.4659e-05.
+Epoch    13: reducing learning rate of group 0 to 6.2997e-06.
+Epoch    15: reducing learning rate of group 0 to 2.7073e-06.
+Epoch    17: reducing learning rate of group 0 to 1.1635e-06.
+Epoch    19: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.7731285095214844
+Final validation error:  1.168509292602539
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.9482589449201312
+**********************************
+**********************************
+Save files...
+Finish saving files
+Model_name:  vgg16_Final_Regression_factor0.428_weight_decay_0.009
+Start training
+Epoch     3: reducing learning rate of group 0 to 4.2816e-04.
+Epoch     5: reducing learning rate of group 0 to 1.8332e-04.
+Epoch     7: reducing learning rate of group 0 to 7.8491e-05.
+Epoch     9: reducing learning rate of group 0 to 3.3607e-05.
+Epoch    11: reducing learning rate of group 0 to 1.4389e-05.
+Epoch    13: reducing learning rate of group 0 to 6.1608e-06.
+Epoch    15: reducing learning rate of group 0 to 2.6378e-06.
+Epoch    17: reducing learning rate of group 0 to 1.1294e-06.
+Epoch    19: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.32844886779785154
+Final validation error:  0.7503486633300781
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.8118243558066232
+**********************************
+**********************************
+Save files...
+Finish saving files
+Model_name:  vgg16_Final_Regression_factor0.523_weight_decay_0.006
+Start training
+Epoch     3: reducing learning rate of group 0 to 5.2338e-04.
+Epoch     5: reducing learning rate of group 0 to 2.7392e-04.
+Epoch     7: reducing learning rate of group 0 to 1.4337e-04.
+Epoch     9: reducing learning rate of group 0 to 7.5035e-05.
+Epoch    11: reducing learning rate of group 0 to 3.9271e-05.
+Epoch    13: reducing learning rate of group 0 to 2.0554e-05.
+Epoch    15: reducing learning rate of group 0 to 1.0757e-05.
+Epoch    17: reducing learning rate of group 0 to 5.6302e-06.
+Epoch    19: reducing learning rate of group 0 to 2.9467e-06.
+Epoch    21: reducing learning rate of group 0 to 1.5423e-06.
+Epoch    23: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.48517303466796874
+Final validation error:  0.6555740356445312
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.7912317003522601
+**********************************
+**********************************
+Save files...
+Finish saving files
+Model_name:  vgg16_Final_Regression_factor0.599_weight_decay_0.010
+Start training
+Epoch     3: reducing learning rate of group 0 to 5.9903e-04.
+Epoch     5: reducing learning rate of group 0 to 3.5883e-04.
+Epoch     7: reducing learning rate of group 0 to 2.1495e-04.
+Epoch     9: reducing learning rate of group 0 to 1.2876e-04.
+Epoch    11: reducing learning rate of group 0 to 7.7131e-05.
+Epoch    13: reducing learning rate of group 0 to 4.6204e-05.
+Epoch    15: reducing learning rate of group 0 to 2.7677e-05.
+Epoch    17: reducing learning rate of group 0 to 1.6579e-05.
+Epoch    19: reducing learning rate of group 0 to 9.9315e-06.
+Epoch    21: reducing learning rate of group 0 to 5.9493e-06.
+Epoch    23: reducing learning rate of group 0 to 3.5638e-06.
+Epoch    25: reducing learning rate of group 0 to 2.1348e-06.
+Epoch    27: reducing learning rate of group 0 to 1.2788e-06.
+Epoch    29: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.4004375457763672
+Final validation error:  1.321236801147461
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.7886683940887451
+**********************************
+**********************************
+Save files...
+Finish saving files
+Model_name:  vgg16_Final_Regression_factor0.508_weight_decay_0.011
+Start training
+Epoch     3: reducing learning rate of group 0 to 5.0804e-04.
+Epoch     5: reducing learning rate of group 0 to 2.5811e-04.
+Epoch     7: reducing learning rate of group 0 to 1.3113e-04.
+Epoch     9: reducing learning rate of group 0 to 6.6619e-05.
+Epoch    11: reducing learning rate of group 0 to 3.3845e-05.
+Epoch    13: reducing learning rate of group 0 to 1.7195e-05.
+Epoch    15: reducing learning rate of group 0 to 8.7356e-06.
+Epoch    17: reducing learning rate of group 0 to 4.4380e-06.
+Epoch    19: reducing learning rate of group 0 to 2.2547e-06.
+Epoch    21: reducing learning rate of group 0 to 1.1455e-06.
+Epoch    23: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.5500339508056641
+Final validation error:  0.8834304809570312
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.937642080443246
+**********************************
+**********************************
+Save files...
+Finish saving files
+Model_name:  vgg16_Final_Regression_factor0.413_weight_decay_0.014
+Start training
+Epoch     3: reducing learning rate of group 0 to 4.1360e-04.
+Epoch     5: reducing learning rate of group 0 to 1.7106e-04.
+Epoch     7: reducing learning rate of group 0 to 7.0751e-05.
+Epoch     9: reducing learning rate of group 0 to 2.9262e-05.
+Epoch    11: reducing learning rate of group 0 to 1.2103e-05.
+Epoch    13: reducing learning rate of group 0 to 5.0057e-06.
+Epoch    15: reducing learning rate of group 0 to 2.0704e-06.
+Epoch    17: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.39809455871582033
+Final validation error:  0.9523860931396484
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.8092981747218541
+**********************************
+**********************************
+Save files...
+Finish saving files
+Model_name:  vgg16_Final_Regression_factor0.546_weight_decay_0.009
+Start training
+Epoch     3: reducing learning rate of group 0 to 5.4609e-04.
+Epoch     5: reducing learning rate of group 0 to 2.9822e-04.
+Epoch     7: reducing learning rate of group 0 to 1.6285e-04.
+Epoch     9: reducing learning rate of group 0 to 8.8932e-05.
+Epoch    11: reducing learning rate of group 0 to 4.8565e-05.
+Epoch    13: reducing learning rate of group 0 to 2.6521e-05.
+Epoch    15: reducing learning rate of group 0 to 1.4483e-05.
+Epoch    17: reducing learning rate of group 0 to 7.9090e-06.
+Epoch    19: reducing learning rate of group 0 to 4.3190e-06.
+Epoch    21: reducing learning rate of group 0 to 2.3586e-06.
+Epoch    23: reducing learning rate of group 0 to 1.2880e-06.
+Epoch    25: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.4010028839111328
+Final validation error:  1.0391422271728517
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.8123208624976022
+**********************************
+**********************************
+Save files...
+Finish saving files
+Model_name:  vgg16_Final_Regression_factor0.476_weight_decay_0.006
+Start training
+Epoch     3: reducing learning rate of group 0 to 4.7691e-04.
+Epoch     5: reducing learning rate of group 0 to 2.2744e-04.
+Epoch     7: reducing learning rate of group 0 to 1.0847e-04.
+Epoch     9: reducing learning rate of group 0 to 5.1731e-05.
+Epoch    11: reducing learning rate of group 0 to 2.4671e-05.
+Epoch    13: reducing learning rate of group 0 to 1.1766e-05.
+Epoch    15: reducing learning rate of group 0 to 5.6113e-06.
+Epoch    17: reducing learning rate of group 0 to 2.6761e-06.
+Epoch    19: reducing learning rate of group 0 to 1.2763e-06.
+Epoch    21: reducing learning rate of group 0 to 1.0000e-06.
+Final training error:  0.3345821380615234
+Final validation error:  0.8112964630126953
+Finish Training. 
+**********************************
+**********************************
+Test Error:  0.7634340184075492
+**********************************
+**********************************
+Save files...
+Finish saving files
